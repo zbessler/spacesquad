@@ -1,0 +1,3 @@
+{"name": "Oneon", "cmdText": "Set the Oneon to ", "values": [1,2,3,4], "type": "DIAL", "inputId": 1 }
+{"name": "Ununie", "cmdText": "Press the Ununie", "type": "BUTTON", "inputId": 2 }
+{"name": "Sington", "cmdText": "Toggle the Sington to ", "values": [0, 1, 2], "type": "THREEWAY", "inputId": 3 }

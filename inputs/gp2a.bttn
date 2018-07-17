@@ -1,0 +1,4 @@
+{"name": "GorganBlaster", "cmdText": "Set the GorganBlaster to ", "values": [1,2,3,4], "type": "DIAL", "inputId": 1 }
+{"name": "Flabber", "cmdText": "Press the Flabber", "type": "BUTTON", "inputId": 2 }
+{"name": "JimJam", "cmdText": "Toggle the JimJam to ", "values": [0, 1], "type": "TOGGLE", "inputId": 3 }
+{"name": "Fluxer", "cmdText": "Toggle the Fluxer to ", "values": [0, 1, 2], "type": "THREEWAY", "inputId": 4 }
